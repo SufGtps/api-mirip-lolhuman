@@ -23,7 +23,7 @@ var lolkill = db.get("lolkill");
 }
 
 var creator = 'SufDev' // ubah jadi nama lu
-const listkey = ["sufdev","sufbot","scarg"]; // ubah apikey nya, tambah aja klo mau
+const listkey = ["Sufdev","Sufbot","Scarg"]; // ubah apikey nya, tambah aja klo mau
 
 var axios = require('axios');
 var qs = require('qs');
